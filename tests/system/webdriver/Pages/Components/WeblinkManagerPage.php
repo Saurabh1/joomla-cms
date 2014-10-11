@@ -18,8 +18,6 @@ use SeleniumClient\WebElement;
 /**
  * Page class for the back-end component weblink menu.
  *
- * @package     Joomla.Test
- * @subpackage  Webdriver
  * @since       3.2
  */
 class WeblinkManagerPage extends AdminManagerPage

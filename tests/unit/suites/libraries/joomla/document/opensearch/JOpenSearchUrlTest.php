@@ -11,8 +11,6 @@ include_once JPATH_PLATFORM . '/joomla/document/opensearch/opensearch.php';
 /**
  * Test class for JOpenSearchUrl.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Document
  * @since       11.1
  */
 class JOpenSearchUrlTest extends PHPUnit_Framework_TestCase

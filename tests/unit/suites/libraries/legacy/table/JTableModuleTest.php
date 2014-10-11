@@ -10,8 +10,6 @@
 /**
  * Test class for JTableMenuType.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Table
  * @since       12.3
  */
 class JTableModuleTest extends TestCase

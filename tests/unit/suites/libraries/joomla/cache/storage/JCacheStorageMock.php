@@ -12,8 +12,6 @@ JLoader::register('JCacheStorage', JPATH_PLATFORM . '/joomla/cache/storage.php')
 /**
  * Mock of JCacheStorage Backend Class.  Used for testing of cache handlers.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Cache
  *
  * @since       11.1
  */

@@ -10,8 +10,6 @@
 /**
  * Test class for JDocumentRendererRSS.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Document
  * @since       11.1
  */
 class JDocumentRendererRSSTest extends TestCase

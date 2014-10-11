@@ -10,8 +10,6 @@
 /**
  * Inspector classes for the JRegistry package.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Registry
  * @since       11.1
  */
 class JRegistryInspector extends JRegistry

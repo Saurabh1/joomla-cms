@@ -10,8 +10,6 @@
 /**
  * Test class for JFormFieldMenu.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       3.0
  */
 class JFormFieldMenuTest extends PHPUnit_Framework_TestCase

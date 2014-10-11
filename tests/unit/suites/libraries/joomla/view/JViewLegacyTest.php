@@ -16,8 +16,6 @@ JLoader::register('MediaViewMediaListItemsHtml', __DIR__ . '/stubs/MediaViewMedi
 /**
  * Mockup object to test Model handling in JView
  *
- * @package     Joomla.UnitTest
- * @subpackage  View
  * @since       11.3
  */
 class ModelMockupJView
@@ -38,8 +36,6 @@ class ModelMockupJView
 /**
  * Test class for JViewLegacy.
  *
- * @package     Joomla.UnitTest
- * @subpackage  View
  *
  * @since       12.3
  */

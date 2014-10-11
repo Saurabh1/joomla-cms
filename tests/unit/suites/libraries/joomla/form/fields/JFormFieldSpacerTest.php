@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('spacer');
 /**
  * Test class for JForm.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormFieldSpacerTest extends TestCase

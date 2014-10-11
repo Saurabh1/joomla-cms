@@ -10,8 +10,6 @@
 /**
  * Test class for JHtmlTel.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Html
  * @since       3.1
  */
 class JHtmlTelTest extends TestCase

@@ -10,8 +10,6 @@
 /**
  * Test class for JTableContent.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Table
  * @since       12.3
  */
 class JTableContentTest extends TestCaseDatabase

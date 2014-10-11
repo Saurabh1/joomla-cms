@@ -12,8 +12,6 @@ require_once JPATH_PLATFORM . '/joomla/environment/browser.php';
 /**
  * Test class for JBrowser.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Environment
  * @since       11.1
  */
 class JBrowserTest extends PHPUnit_Framework_TestCase

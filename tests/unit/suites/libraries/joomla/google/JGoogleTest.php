@@ -9,8 +9,6 @@
 /**
  * Test class for JGoogle.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Google
  * @since       12.3
  */
 class JGoogleTest extends TestCase

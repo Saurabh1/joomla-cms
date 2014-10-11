@@ -18,8 +18,6 @@ use SeleniumClient\DesiredCapabilities;
 /**
  * This class tests the  Redirect: Add / Edit  Screen.
  *
- * @package     Joomla.Test
- * @subpackage  Webdriver
  * @since       3.0
  */
 class RedirectManager0001Test extends JoomlaWebdriverTestCase

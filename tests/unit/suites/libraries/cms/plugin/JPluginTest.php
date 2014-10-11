@@ -14,8 +14,6 @@ require_once __DIR__ . '/stubs/PlgSystemPrivate.php';
 /**
  * Test class for JPlugin.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Plugin
  * @since       3.2
  */
 class JPluginTest extends TestCase

@@ -9,8 +9,6 @@
 /**
  * Test class for JLanguageStemmerPorteren.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Language
  * @since       11.1
  */
 class JLanguageStemmerPorterenTest extends PHPUnit_Framework_TestCase

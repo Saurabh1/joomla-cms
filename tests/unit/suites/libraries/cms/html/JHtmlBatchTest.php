@@ -10,8 +10,6 @@
 /**
  * Test class for JHtmlBatch.
  *
- * @package     Joomla.UnitTest
- * @subpackage  HTML
  * @since       3.1
  */
 class JHtmlBatchTest extends TestCaseDatabase

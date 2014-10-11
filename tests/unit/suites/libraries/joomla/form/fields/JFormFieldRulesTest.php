@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('rules');
 /**
  * Test class for JFormFieldRules.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormFieldRulesTest extends TestCaseDatabase

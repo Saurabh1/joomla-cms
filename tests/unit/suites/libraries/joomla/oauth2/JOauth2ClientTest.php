@@ -10,8 +10,6 @@
 /**
  * Test class for JOAuth2Client.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Oauth
  * @since       12.3
  */
 class JOAuth2ClientTest extends TestCase

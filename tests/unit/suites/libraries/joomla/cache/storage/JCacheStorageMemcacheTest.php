@@ -10,8 +10,6 @@
 /**
  * Test class for JCacheStorageMemcache.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Cache
  *
  * @since       11.1
  */

@@ -12,8 +12,6 @@ require_once __DIR__ . '/stubs/controller.php';
 /**
  * Test class for JControllerLegacy.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Controller
  *
  * @since       12.3
  */

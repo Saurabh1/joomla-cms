@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('databaseconnection');
 /**
  * Test class for JFormFieldDatabaseConnection.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.3
  */
 class JFormFieldDatabaseConnectionTest extends TestCase

@@ -10,8 +10,6 @@
 /**
  * Inspector for the JOAuth1Client class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  OAuth
  *
  * @since       13.1
  */

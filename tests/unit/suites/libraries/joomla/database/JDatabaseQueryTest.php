@@ -12,8 +12,6 @@ require_once __DIR__ . '/JDatabaseQueryInspector.php';
 /**
  * Test class for JDatabaseQuery.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       11.1
  */
 class JDatabaseQueryTest extends TestCase

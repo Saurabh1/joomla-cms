@@ -9,8 +9,6 @@
 /**
  * Test class for JLanguageHelper.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Language
  * @since       11.1
  */
 class JLanguageHelperTest extends PHPUnit_Framework_TestCase

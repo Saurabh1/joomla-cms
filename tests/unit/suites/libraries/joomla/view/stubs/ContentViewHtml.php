@@ -10,8 +10,6 @@
 /**
  * Mockup ContentViewHtml class
  *
- * @package     Joomla.UnitTest
- * @subpackage  View
  * @since       11.3
  */
 class ContentViewHtml extends JViewLegacy

@@ -10,8 +10,6 @@
 /**
  * Test class for JDatabaseIteratorPostgresql.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       12.1
  */
 class JDatabaseIteratorPostgresqlTest extends TestCaseDatabasePostgresql

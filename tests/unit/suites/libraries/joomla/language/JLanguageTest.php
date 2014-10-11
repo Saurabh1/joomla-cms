@@ -18,8 +18,6 @@ if (!class_exists('En_GBLocalise'))
 /**
  * Test class for JLanguage.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Language
  * @since       11.1
  */
 class JLanguageTest extends PHPUnit_Framework_TestCase

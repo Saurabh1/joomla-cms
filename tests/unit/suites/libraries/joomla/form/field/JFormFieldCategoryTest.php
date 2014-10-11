@@ -10,8 +10,6 @@
 /**
  * Test class for JFormFieldCategory.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormFieldCategoryTest extends TestCaseDatabase

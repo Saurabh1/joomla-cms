@@ -10,8 +10,6 @@
 /**
  * Inspector for the JApplicationCms class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Application
  * @since       3.2
  */
 class JApplicationCmsInspector extends JApplicationCms

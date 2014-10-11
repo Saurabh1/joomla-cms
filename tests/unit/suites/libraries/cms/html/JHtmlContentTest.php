@@ -10,8 +10,6 @@
 /**
  * Test class for JHtmlContent.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Html
  * @since       3.1
  */
 class JHtmlContentTest extends PHPUnit_Framework_TestCase

@@ -13,8 +13,6 @@ require_once __DIR__ . '/TestHelpers/JHtmlFieldTel-helper-dataset.php';
 /**
  * Test class for JFormFieldTel.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       12.1
  */
 class JFormFieldTelTest extends TestCase

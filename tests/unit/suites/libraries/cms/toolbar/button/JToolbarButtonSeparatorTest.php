@@ -10,8 +10,6 @@
 /**
  * Test class for JToolbarButtonSeparator.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Toolbar
  * @since       3.0
  */
 class JToolbarButtonSeparatorTest extends PHPUnit_Framework_TestCase

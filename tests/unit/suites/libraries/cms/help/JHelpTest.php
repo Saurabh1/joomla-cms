@@ -10,8 +10,6 @@
 /**
  * Test class for JHelp.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Help
  * @since       3.0
  */
 class JHelpTest extends TestCase

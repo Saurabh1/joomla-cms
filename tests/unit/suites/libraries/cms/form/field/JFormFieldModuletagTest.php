@@ -10,8 +10,6 @@
 /**
  * Test class for JFormFieldModuletag.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       3.1
  */
 class JFormFieldModuletagTest extends PHPUnit_Framework_TestCase

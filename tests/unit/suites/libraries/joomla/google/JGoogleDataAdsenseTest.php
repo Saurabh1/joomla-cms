@@ -9,8 +9,6 @@
 /**
  * Test class for JGoogleDataAdsense.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Google
  * @since       12.3
  */
 class JGoogleDataAdsenseTest extends TestCase

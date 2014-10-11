@@ -10,8 +10,6 @@
 /**
  * Concrete class extending JViewHtml.
  *
- * @package     Joomla.UnitTest
- * @subpackage  View
  * @since       12.1
  */
 class HtmlView extends JViewHtml

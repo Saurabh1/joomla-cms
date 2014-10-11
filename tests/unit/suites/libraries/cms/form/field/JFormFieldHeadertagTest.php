@@ -10,8 +10,6 @@
 /**
  * Test class for JFormFieldHeadertag.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       3.1
  */
 class JFormFieldHeadertagTest extends PHPUnit_Framework_TestCase

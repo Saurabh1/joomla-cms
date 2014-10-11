@@ -24,8 +24,6 @@ use SeleniumClient\WebElement;
 /**
  * Page class for the back-end menu items manager screen.
  *
- * @package     Joomla.Test
- * @subpackage  Webdriver
  * @since       3.0
  */
 class MenuItemsManagerPage extends AdminManagerPage

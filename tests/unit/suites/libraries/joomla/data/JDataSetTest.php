@@ -13,8 +13,6 @@ JLoader::register('JDataVostok', __DIR__ . '/stubs/vostok.php');
 /**
  * Tests for the JDataSet class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Data
  * @since       12.3
  */
 class JDataSetTest extends TestCase

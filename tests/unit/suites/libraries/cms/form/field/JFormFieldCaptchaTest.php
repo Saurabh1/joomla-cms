@@ -10,8 +10,6 @@
 /**
  * Test class for JFormFieldCaptcha.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       3.0
  */
 class JFormFieldCaptchaTest extends PHPUnit_Framework_TestCase

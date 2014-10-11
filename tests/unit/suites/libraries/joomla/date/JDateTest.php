@@ -10,8 +10,6 @@
 /**
  * Tests for JDate class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Date
  * @since       11.3
  */
 class JDateTest extends TestCaseDatabase

@@ -10,8 +10,6 @@
 /**
  * Class to expose protected properties and methods in JDatabaseQueryExporter for testing purposes.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       11.1
  */
 class JDatabaseQueryInspector extends JDatabaseQuery

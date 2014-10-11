@@ -10,8 +10,6 @@
 /**
  * Test class for JModelForm.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Model
  *
  * @since       12.3
  */

@@ -10,8 +10,6 @@
 /**
  * Stub for testing the JControllerLegacy class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Controller
  *
  * @since       12.3
  */
@@ -57,8 +55,6 @@ class TestController extends JControllerLegacy
 /**
  * Stub for testing the JControllerLegacy class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Controller
  *
  * @since       12.3
  */

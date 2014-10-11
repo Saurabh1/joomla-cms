@@ -13,8 +13,6 @@ include_once __DIR__ . '/../application/stubs/JApplicationWebInspector.php';
 /**
  * Test class for JOAuth1Client.
  *
- * @package     Joomla.UnitTest
- * @subpackage  OAuth
  * @since       13.1
  */
 class JOAuth1ClientTest extends TestCase

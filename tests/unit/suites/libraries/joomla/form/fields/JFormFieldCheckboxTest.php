@@ -13,8 +13,6 @@ require_once __DIR__ . '/TestHelpers/JHtmlFieldCheckbox-helper-dataset.php';
 /**
  * Test class for JFormFieldCheckbox.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormFieldCheckboxTest extends TestCaseDatabase

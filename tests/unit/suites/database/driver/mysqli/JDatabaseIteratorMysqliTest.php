@@ -10,8 +10,6 @@
 /**
  * Test class for JDatabaseIteratorMysqli.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       12.1
  */
 class JDatabaseIteratorMysqliTest extends TestCaseDatabaseMysqli

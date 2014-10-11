@@ -10,8 +10,6 @@
 /**
  * Test class for JToolbarButtonHelp.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Toolbar
  * @since       3.0
  */
 class JToolbarButtonHelpTest extends TestCaseDatabase

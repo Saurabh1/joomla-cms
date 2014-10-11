@@ -10,8 +10,6 @@
 /**
  * Test class for JDatabaseIteratorMysql.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       12.1
  */
 class JDatabaseIteratorMysqlTest extends TestCaseDatabaseMysql

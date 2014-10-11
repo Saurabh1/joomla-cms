@@ -10,8 +10,6 @@
 /**
  * Test class for JFormFieldContentlanguage.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       3.0
  */
 class JFormFieldContentlanguageTest extends PHPUnit_Framework_TestCase

@@ -10,8 +10,6 @@
 /**
  * FilterTestObject
  *
- * @package     Joomla.UnitTest
- * @subpackage  Filter
  * @since       11.1
  */
 class FilterTestObject
@@ -37,8 +35,6 @@ class FilterTestObject
 /**
  * JFilterOutputTest
  *
- * @package     Joomla.UnitTest
- * @subpackage  Filter
  * @since       11.1
  */
 class JFilterOutputTest extends PHPUnit_Framework_TestCase

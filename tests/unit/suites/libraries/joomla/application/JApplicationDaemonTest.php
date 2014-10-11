@@ -12,8 +12,6 @@ include_once __DIR__ . '/stubs/JApplicationDaemonInspector.php';
 /**
  * Test class for JApplicationDaemon.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Application
  * @since       11.1
  */
 class JApplicationDaemonTest extends TestCase

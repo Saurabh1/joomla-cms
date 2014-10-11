@@ -10,8 +10,6 @@
 /**
  * Test class for JModelItem.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Model
  *
  * @since       12.3
  */

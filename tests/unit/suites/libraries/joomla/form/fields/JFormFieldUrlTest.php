@@ -13,8 +13,6 @@ require_once __DIR__ . '/TestHelpers/JHtmlFieldUrl-helper-dataset.php';
 /**
  * Test class for JFormFieldUrl.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       12.1
  */
 class JFormFieldUrlTest extends TestCaseDatabase

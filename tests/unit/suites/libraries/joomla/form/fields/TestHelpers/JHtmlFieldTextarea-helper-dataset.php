@@ -10,8 +10,6 @@
 /**
  * Data set class for JHtmlFieldTextarea.
  *
- * @package     Joomla.UnitTest
- * @subpackage  HTML
  * @since       3.1
  */
 class JHtmlFieldTextareaTest_DataSet

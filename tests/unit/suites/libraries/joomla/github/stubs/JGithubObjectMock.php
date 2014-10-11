@@ -10,8 +10,6 @@
 /**
  * JGithubObjectMock class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Github
  *
  * @since       11.1
  */

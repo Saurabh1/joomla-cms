@@ -10,8 +10,6 @@
 /**
  * Test class JDatabase.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       11.4
  */
 class JDatabaseDriverNosql extends JDatabaseDriver

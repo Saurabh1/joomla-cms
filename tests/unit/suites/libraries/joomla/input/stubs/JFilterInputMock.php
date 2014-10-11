@@ -10,8 +10,6 @@
 /**
  * JFilterInputMock test class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Input
  * @since       11.1
  */
 class JFilterInputMock

@@ -12,8 +12,6 @@ require_once __DIR__ . '/JEventInspector.php';
 /**
  * Test class for JEventDispatcher.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Event
  * @since       11.3
  */
 class JEventDispatcherTest extends PHPUnit_Framework_TestCase

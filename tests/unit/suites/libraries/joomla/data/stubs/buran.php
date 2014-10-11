@@ -10,8 +10,6 @@
 /**
  * Derived JData class for testing.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Object
  * @since       12.1
  */
 class JDataBuran extends JData

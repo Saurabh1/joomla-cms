@@ -14,8 +14,6 @@ require_once JPATH_PLATFORM . '/joomla/mediawiki/pages.php';
 /**
  * Test class for JMediawikiPages.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Mediawiki
  *
  * @since       12.3
  */

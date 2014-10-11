@@ -10,8 +10,6 @@
 /**
  * Mock Feed Parser class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Feed
  * @since       12.3
  */
 class JFeedParserMock extends JFeedParser

@@ -18,8 +18,6 @@ use SeleniumClient\DesiredCapabilities;
 /**
  * This class tests the  Category: Add / Edit  Screen.
  *
- * @package     Joomla.Test
- * @subpackage  Webdriver
  * @since       3.0
  */
 class CategoryManager0002Test extends JoomlaWebdriverTestCase

@@ -9,8 +9,6 @@
 /**
  * Test class for JDatabaseDriverPostgresql.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       11.3
  */
 class JDatabaseDriverPostgresqlTest extends TestCaseDatabasePostgresql

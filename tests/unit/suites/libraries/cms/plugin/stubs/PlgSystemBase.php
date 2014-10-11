@@ -10,8 +10,6 @@
 /**
  * Stub plugin class for unit testing
  *
- * @package     Joomla.UnitTest
- * @subpackage  Plugin
  * @since       3.1
  */
 class PlgSystemBase extends JPlugin

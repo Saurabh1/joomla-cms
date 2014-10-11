@@ -11,8 +11,6 @@ require_once JPATH_PLATFORM . '/joomla/language/text.php';
 /**
  * Test class for JText.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Language
  * @since       11.1
  */
 class JTextTest extends PHPUnit_Framework_TestCase

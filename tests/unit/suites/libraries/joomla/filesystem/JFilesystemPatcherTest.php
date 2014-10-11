@@ -14,8 +14,6 @@ require_once JPATH_PLATFORM . '/joomla/filesystem/path.php';
 /**
  * A unit test class for JFilesystemPatcher
  *
- * @package     Joomla.UnitTest
- * @subpackage  FileSystem
  * @since   12.1
  */
 class JFilesystemPatcherTest extends TestCase

@@ -14,8 +14,6 @@ require_once __DIR__ . '/stubs/room.php';
 /**
  * Tests for the JModelLegacy class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Model
  *
  * @since       12.3
  */

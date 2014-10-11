@@ -10,8 +10,6 @@
 /**
  * Test class for JLinkedinCommunications.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Linkedin
  *
  * @since       13.1
  */

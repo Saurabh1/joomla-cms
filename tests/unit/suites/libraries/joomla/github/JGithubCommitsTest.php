@@ -14,8 +14,6 @@ require_once JPATH_PLATFORM . '/joomla/github/commits.php';
 /**
  * Test class for JGitHubCommits.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Github
  *
  * @since       11.1
  */

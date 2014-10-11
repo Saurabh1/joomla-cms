@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('sessionhandler');
 /**
  * Test class for JFormFieldSessionHandler.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormFieldSessionHandlerTest extends TestCase

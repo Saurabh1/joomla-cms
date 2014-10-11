@@ -10,8 +10,6 @@
 /**
  * Test class for JHtmlList.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Html
  * @since       3.1
  */
 class JHtmlListTest extends TestCaseDatabase

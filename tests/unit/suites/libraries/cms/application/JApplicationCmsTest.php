@@ -12,8 +12,6 @@ include_once __DIR__ . '/stubs/JApplicationCmsInspector.php';
 /**
  * Test class for JApplicationCms.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Application
  * @since       3.2
  */
 class JApplicationCmsTest extends TestCaseDatabase

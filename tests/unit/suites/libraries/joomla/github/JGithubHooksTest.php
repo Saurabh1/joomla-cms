@@ -10,8 +10,6 @@
 /**
  * Test class for JGithubHooks.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Github
  * @since       12.3
  */
 class JGithubHooksTest extends PHPUnit_Framework_TestCase

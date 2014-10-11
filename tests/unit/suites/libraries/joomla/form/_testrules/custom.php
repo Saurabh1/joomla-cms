@@ -10,8 +10,6 @@
 /**
  * Form Rule class for the Joomla Framework.
  *
- * @package     Joomla.Platform
- * @subpackage  Form
  * @since       11.1
  */
 class JFormRuleCustom extends JFormRule

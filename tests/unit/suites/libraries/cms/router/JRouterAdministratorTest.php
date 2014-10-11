@@ -10,8 +10,6 @@
 /**
  * Test class for JRouterAdministrator.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Router
  * @since       3.0
  */
 class JRouterAdministratorTest extends PHPUnit_Framework_TestCase

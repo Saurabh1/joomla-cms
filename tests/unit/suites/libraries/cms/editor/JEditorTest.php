@@ -10,8 +10,6 @@
 /**
  * Test class for JEditor.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Editor
  * @since       3.0
  */
 class JEditorTest extends PHPUnit_Framework_TestCase

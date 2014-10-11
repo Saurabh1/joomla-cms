@@ -12,8 +12,6 @@ require_once __DIR__ . '/stubs/formattedtext/inspector.php';
 /**
  * Test class for JLogLoggerFormattedText.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Log
  * @since       11.1
  */
 class JLogLoggerFormattedTextTest extends TestCase

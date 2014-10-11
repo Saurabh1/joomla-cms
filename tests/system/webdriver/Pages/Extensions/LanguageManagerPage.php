@@ -18,8 +18,6 @@ use SeleniumClient\WebElement;
 /**
  * Page class for the back-end component tags menu.
  *
- * @package     Joomla.Test
- * @subpackage  Webdriver
  * @since       3.0
  */
 class LanguageManagerPage extends AdminManagerPage

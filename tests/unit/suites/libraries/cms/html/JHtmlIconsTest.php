@@ -10,8 +10,6 @@
 /**
  * Test class for JHtmlIcons.
  *
- * @package     Joomla.UnitTest
- * @subpackage  HTML
  * @since       3.0
  */
 class JHtmlIconsTest extends TestCase

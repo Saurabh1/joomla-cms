@@ -10,8 +10,6 @@
 /**
  * Test class for JPaginationObject.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Pagination
  * @since       3.2
  */
 class JPaginationObjectTest extends TestCase

@@ -10,8 +10,6 @@
 /**
  * Abstract test case for archive package tests
  *
- * @package     Joomla.UnitTest
- * @subpackage  Archive
  * @since       3.1
  */
 abstract class JArchiveTestCase extends PHPUnit_Framework_TestCase

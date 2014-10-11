@@ -13,8 +13,6 @@ require_once __DIR__ . '/TestHelpers/JHtmlFieldRadio-helper-dataset.php';
 /**
  * Test class for JFormFieldRadio.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormFieldRadioTest extends TestCase

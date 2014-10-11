@@ -10,8 +10,6 @@
 /**
  * Data set class for JHtmlFieldEmail.
  *
- * @package     Joomla.UnitTest
- * @subpackage  HTML
  * @since       3.1
  */
 class JHtmlFieldEmailTest_DataSet

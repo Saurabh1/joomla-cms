@@ -12,8 +12,6 @@ JLoader::register('BaseModel', __DIR__ . '/stubs/tbase.php');
 /**
  * Tests for the JViewBase class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Mapper
  * @since       12.1
  */
 class JModelBaseTest extends TestCase

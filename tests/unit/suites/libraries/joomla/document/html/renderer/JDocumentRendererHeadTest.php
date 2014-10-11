@@ -11,8 +11,6 @@ include_once JPATH_PLATFORM . '/joomla/document/html/renderer/head.php';
 /**
  * Test class for JDocumentRendererHead.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Document
  * @since       11.1
  */
 class JDocumentRendererHeadTest extends PHPUnit_Framework_TestCase

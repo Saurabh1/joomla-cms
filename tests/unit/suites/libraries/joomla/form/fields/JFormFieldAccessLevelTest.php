@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('accesslevel');
 /**
  * Test class for JFormFieldAccessLevel.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormFieldAccessLevelTest extends TestCaseDatabase

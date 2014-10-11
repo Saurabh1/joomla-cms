@@ -10,8 +10,6 @@
 /**
  * Test class for JGithubPackageGitignore.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Github
  *
  * @since       ¿
  */

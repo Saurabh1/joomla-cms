@@ -12,8 +12,6 @@ require_once JPATH_PLATFORM . '/joomla/document/xml/xml.php';
 /**
  * Test class for JDocumentXML.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Document
  * @since       11.1
  */
 class JDocumentXMLTest extends TestCase

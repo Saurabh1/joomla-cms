@@ -10,8 +10,6 @@
 /**
  * Data set class for JHtmlFieldRadio.
  *
- * @package     Joomla.UnitTest
- * @subpackage  HTML
  * @since       3.1
  */
 class JHtmlFieldRadioTest_DataSet

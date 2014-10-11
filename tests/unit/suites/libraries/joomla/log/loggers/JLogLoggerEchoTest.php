@@ -10,8 +10,6 @@
 /**
  * Test class for JLogLoggerEcho.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Log
  * @since       11.1
  */
 class JLogLoggerEchoTest extends PHPUnit_Framework_TestCase

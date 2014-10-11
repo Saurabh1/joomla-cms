@@ -10,8 +10,6 @@
 /**
  * Test class for JTwitter.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Twitter
  * @since       12.3
  */
 class JTwitterTest extends TestCase

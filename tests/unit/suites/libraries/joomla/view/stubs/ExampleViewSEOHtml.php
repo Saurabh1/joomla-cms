@@ -10,8 +10,6 @@
 /**
  * Mockup ExampleViewSEOHtml class
  *
- * @package     Joomla.UnitTest
- * @subpackage  View
  * @since       11.3
  */
 class ExampleViewSEOHtml extends JViewLegacy

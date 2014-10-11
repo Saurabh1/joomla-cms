@@ -10,8 +10,6 @@
 /**
  * Test class for JHtmlEmail.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Html
  * @since       3.1
  */
 class JHtmlEmailTest extends PHPUnit_Framework_TestCase

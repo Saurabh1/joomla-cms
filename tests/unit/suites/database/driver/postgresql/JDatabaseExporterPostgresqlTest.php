@@ -10,8 +10,6 @@
 /**
  * Test the JDatabaseExporterPostgresql class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       12.1
  */
 class JDatabaseExporterPostgresqlTest extends PHPUnit_Framework_TestCase

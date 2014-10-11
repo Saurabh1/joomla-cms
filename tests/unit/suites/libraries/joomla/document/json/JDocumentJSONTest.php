@@ -12,8 +12,6 @@ require_once JPATH_PLATFORM . '/joomla/document/json/json.php';
 /**
  * Test class for JDocumentJSON.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Document
  * @since       11.1
  */
 class JDocumentJSONTest extends TestCase

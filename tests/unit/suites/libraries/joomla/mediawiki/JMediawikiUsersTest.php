@@ -14,8 +14,6 @@ require_once JPATH_PLATFORM . '/joomla/mediawiki/users.php';
 /**
  * Test class for JMediawikiUsers.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Mediawiki
  *
  * @since       12.3
  */

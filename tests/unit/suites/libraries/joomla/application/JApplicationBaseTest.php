@@ -12,8 +12,6 @@ include_once __DIR__ . '/stubs/JApplicationBaseInspector.php';
 /**
  * Test class for JApplicationBase.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Application
  * @since       12.1
  */
 class JApplicationBaseTest extends TestCase

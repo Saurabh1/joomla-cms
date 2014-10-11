@@ -10,8 +10,6 @@
 /**
  * Test class for JApplicationHelper
  *
- * @package     Joomla.UnitTest
- * @subpackage  Application
  * @since       3.2
  */
 class JApplicationHelperInspector extends JApplicationHelper
@@ -46,8 +44,6 @@ class JApplicationHelperInspector extends JApplicationHelper
 /**
  * Test class for JApplicationHelper.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Application
  * @since       3.2
  */
 class JApplicationHelperTest extends TestCase

@@ -12,8 +12,6 @@ require_once JPATH_PLATFORM . '/joomla/github/github.php';
 /**
  * Test class for JGithub.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Github
  *
  * @since       11.1
  */

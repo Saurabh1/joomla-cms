@@ -9,8 +9,6 @@
 /**
  * Test class for JLanguageTransliterate.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Language
  * @since       11.1
  */
 class JLanguageTransliterateTest extends PHPUnit_Framework_TestCase

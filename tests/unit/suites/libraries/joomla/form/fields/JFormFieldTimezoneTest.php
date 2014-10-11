@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('timezone');
 /**
  * Test class for JFormFieldTimezone.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormFieldTimezoneTest extends TestCase

@@ -10,8 +10,6 @@
 /**
  * A testCallbackController test class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Cache
  *
  * @since       11.1
  */

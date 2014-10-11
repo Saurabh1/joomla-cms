@@ -11,8 +11,6 @@ include_once JPATH_PLATFORM . '/joomla/filesystem/streams/string.php';
 /**
  * Test class for JStreamString.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Event
  * @since       11.1
  */
 class JStreamStringTest extends PHPUnit_Framework_TestCase

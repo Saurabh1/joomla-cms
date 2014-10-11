@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('language');
 /**
  * Test class for JFormFieldLanguage.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormFieldLanguageTest extends TestCaseDatabase

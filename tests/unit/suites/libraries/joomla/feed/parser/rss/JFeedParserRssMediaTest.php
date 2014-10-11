@@ -10,8 +10,6 @@
 /**
  * Test class for JFeedParserRssMedia.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Feed
  * @since       12.3
  */
 class JFeedParserRssMediaTest extends TestCase

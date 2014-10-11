@@ -11,8 +11,6 @@
  * A unit test class for SubjectClass
  * The two annotations below are required because we use mocks.  This avoids bringing bogus classes into the main process.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Cache
  *
  * @since       11.1
  */

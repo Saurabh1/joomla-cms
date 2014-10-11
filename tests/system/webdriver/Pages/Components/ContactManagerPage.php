@@ -18,8 +18,6 @@ use SeleniumClient\WebElement;
 /**
  * Page class for the back-end component contact menu.
  *
- * @package     Joomla.Test
- * @subpackage  Webdriver
  * @since       3.2
  */
 class ContactManagerPage extends AdminManagerPage

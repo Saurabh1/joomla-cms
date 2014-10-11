@@ -14,8 +14,6 @@
 /**
  * Helper class for JLogLoggerCallbackTest
  *
- * @package     Joomla.UnitTest
- * @subpackage  Log
  *
  * @since       12.2
  */

@@ -10,8 +10,6 @@
 /**
  * Test class for JSchemaChangeset.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Schema
  * @since       3.0
  */
 class JSchemaChangesetTest extends TestCase

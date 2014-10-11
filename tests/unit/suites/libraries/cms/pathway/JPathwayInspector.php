@@ -10,8 +10,6 @@
 /**
  * General inspector class for JPathway.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Pathway
  * @since       3.1
  */
 class JPathwayInspector extends JPathway

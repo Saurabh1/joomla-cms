@@ -11,8 +11,6 @@ include_once JPATH_PLATFORM . '/joomla/document/html/renderer/modules.php';
 /**
  * Test class for JDocumentRendererModules.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Document
  * @since       11.1
  */
 class JDocumentRendererModulesTest extends PHPUnit_Framework_TestCase

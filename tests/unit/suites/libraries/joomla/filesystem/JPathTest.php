@@ -12,8 +12,6 @@ JLoader::register('JPath', JPATH_PLATFORM . '/joomla/filesystem/path.php');
 /**
  * Tests for the JPath class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Filesystem
  * @since       12.2
  */
 class JPathTest extends TestCase

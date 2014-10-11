@@ -10,8 +10,6 @@
 /**
  * Test class for JCryptCipherBlowfish.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Crypt
  * @since       12.1
  */
 class JCryptCipherBlowfishTest extends TestCase

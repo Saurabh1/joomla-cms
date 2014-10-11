@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('cachehandler');
 /**
  * Test class for JFormFieldCacheHandler.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormFieldCacheHandlerTest extends TestCase

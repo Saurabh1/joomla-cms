@@ -12,8 +12,6 @@ require_once __DIR__ . '/stubs/nested.php';
 /**
  * Test class for JTableNested.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Table
  * @since       11.1
  */
 class JTableNestedTest extends TestCaseDatabase

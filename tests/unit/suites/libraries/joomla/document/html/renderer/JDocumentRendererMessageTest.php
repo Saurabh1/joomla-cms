@@ -11,8 +11,6 @@ include_once JPATH_PLATFORM . '/joomla/document/html/renderer/message.php';
 /**
  * Test class for JDocumentRendererMessage.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Document
  * @since       11.1
  */
 class JDocumentRendererMessageTest extends TestCaseDatabase

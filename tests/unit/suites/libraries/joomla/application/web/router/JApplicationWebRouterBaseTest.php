@@ -10,8 +10,6 @@
 /**
  * Test class for JApplicationWebRouterBase.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Application
  * @since       12.3
  */
 class JApplicationWebRouterBaseTest extends TestCase

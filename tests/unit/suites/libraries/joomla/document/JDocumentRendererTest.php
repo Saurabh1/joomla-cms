@@ -10,8 +10,6 @@
 /**
  * Test class for JDocumentRenderer.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Document
  * @since       11.1
  */
 class JDocumentRendererTest extends PHPUnit_Framework_TestCase

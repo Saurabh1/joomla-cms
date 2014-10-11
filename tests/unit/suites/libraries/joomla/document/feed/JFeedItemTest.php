@@ -11,8 +11,6 @@ include_once JPATH_PLATFORM . '/joomla/document/feed/feed.php';
 /**
  * Test class for JFeedItem.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Document
  * @since       11.1
  */
 class JFeedItemTest extends PHPUnit_Framework_TestCase

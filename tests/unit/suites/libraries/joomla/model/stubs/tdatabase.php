@@ -10,8 +10,6 @@
 /**
  * Concrete class extending JModelDatabase.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Model
  * @since       12.1
  */
 class DatabaseModel extends JModelDatabase

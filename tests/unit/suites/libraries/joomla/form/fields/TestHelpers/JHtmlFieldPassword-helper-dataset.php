@@ -10,8 +10,6 @@
 /**
  * Data set class for JHtmlFieldPassword.
  *
- * @package     Joomla.UnitTest
- * @subpackage  HTML
  * @since       3.1
  */
 class JHtmlFieldPasswordTest_DataSet

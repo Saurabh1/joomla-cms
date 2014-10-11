@@ -10,8 +10,6 @@
 /**
  * Test class for JDocument.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Document
  * @since       11.1
  */
 class JDocumentTest extends PHPUnit_Framework_TestCase

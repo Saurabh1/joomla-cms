@@ -17,8 +17,6 @@ use SeleniumClient\WebElement;
 /**
  * Page class for the back-end Messaging Edit page.
  *
- * @package     Joomla.Test
- * @subpackage  Webdriver
  * @since       3.2
  */
 class MessagingEditPage extends AdminEditPage

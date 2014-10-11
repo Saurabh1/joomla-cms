@@ -10,8 +10,6 @@
 /**
  * Test class for JComponentHelper.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Component
  * @since       3.2
  */
 class JComponentHelperTest extends TestCaseDatabase

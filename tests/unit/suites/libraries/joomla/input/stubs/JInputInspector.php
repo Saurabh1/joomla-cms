@@ -10,8 +10,6 @@
 /**
  * Inspector class for the JInput library.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Input
  * @since       11.1
  */
 class JInputInspector extends JInput

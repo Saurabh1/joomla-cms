@@ -12,8 +12,6 @@ require_once JPATH_PLATFORM . '/joomla/linkedin/stream.php';
 /**
  * Test class for JLinkedinStream.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Linkedin
  * @since       13.1
  */
 class JLinkedinStreamTest extends TestCase

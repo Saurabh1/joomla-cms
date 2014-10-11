@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('combo');
 /**
  * Test class for JFormFieldCombo.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormFieldComboTest extends TestCase

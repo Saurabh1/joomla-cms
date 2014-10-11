@@ -11,8 +11,6 @@ include_once JPATH_PLATFORM . '/joomla/document/html/html.php';
 /**
  * Test class for JDocumentHTML.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Document
  * @since       11.1
  */
 class JDocumentHTMLTest extends PHPUnit_Framework_TestCase

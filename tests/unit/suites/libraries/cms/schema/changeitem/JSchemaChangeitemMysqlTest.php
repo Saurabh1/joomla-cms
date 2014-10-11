@@ -10,8 +10,6 @@
 /**
  * Test class for JSchemaChangeitemMysql.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Schema
  * @since       3.0
  */
 class JSchemaChangeitemMysqlTest extends PHPUnit_Framework_TestCase

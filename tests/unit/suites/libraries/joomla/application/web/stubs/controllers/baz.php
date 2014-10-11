@@ -10,8 +10,6 @@
 /**
  * Test stub non-controller.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Application
  * @since       12.3
  */
 class MyTestControllerBaz

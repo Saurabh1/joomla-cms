@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('file');
 /**
  * Test class for JFormFieldFile.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormFieldFileTest extends TestCaseDatabase

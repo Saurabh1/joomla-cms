@@ -10,8 +10,6 @@
 /**
  * Test class for JFormRuleEquals.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormRuleEqualsTest extends TestCase

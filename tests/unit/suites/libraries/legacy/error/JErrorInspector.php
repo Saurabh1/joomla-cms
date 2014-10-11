@@ -10,8 +10,6 @@
 /**
  * Stub for testing the JError class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Error
  * @since       12.3
  */
 class JErrorInspector extends JError

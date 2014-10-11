@@ -14,8 +14,6 @@
 /**
  * JApplicationMock class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Log
  * @since       11.1
  */
 class JApplicationMock

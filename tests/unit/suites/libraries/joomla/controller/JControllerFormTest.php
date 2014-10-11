@@ -13,8 +13,6 @@ require_once __DIR__ . '/stubs/controllerform.php';
 /**
  * Test class for JControllerForm.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Component
  *
  * @since       12.3
  */

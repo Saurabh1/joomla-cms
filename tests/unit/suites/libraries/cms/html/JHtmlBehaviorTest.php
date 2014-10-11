@@ -12,8 +12,6 @@ require_once __DIR__ . '/stubs/JHtmlBehaviorInspector.php';
 /**
  * Test class for JHtmlBehavior.
  *
- * @package     Joomla.UnitTest
- * @subpackage  HTML
  * @since       3.1
  */
 class JHtmlBehaviorTest extends TestCase

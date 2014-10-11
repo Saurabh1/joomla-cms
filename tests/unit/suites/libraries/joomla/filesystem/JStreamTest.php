@@ -12,8 +12,6 @@ include_once JPATH_PLATFORM . '/joomla/filesystem/stream.php';
 /**
  * Test class for JStream.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Filesystem
  * @since       11.1
  */
 class JStreamTest extends PHPUnit_Framework_TestCase

@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('calendar');
 /**
  * Test class for JForm.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormFieldCalendarTest extends TestCase

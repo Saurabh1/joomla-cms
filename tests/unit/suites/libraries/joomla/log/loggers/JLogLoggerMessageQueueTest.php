@@ -12,8 +12,6 @@ require_once __DIR__ . '/stubs/messagequeue/mock.application.php';
 /**
  * Test class for JLogLoggerMessageQueue.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Log
  * @since       11.1
  */
 class JLogLoggerMessageQueueTest extends PHPUnit_Framework_TestCase

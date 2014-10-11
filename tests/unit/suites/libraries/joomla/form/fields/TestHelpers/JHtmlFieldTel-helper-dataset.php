@@ -10,8 +10,6 @@
 /**
  * Data set class for JHtmlFieldTel.
  *
- * @package     Joomla.UnitTest
- * @subpackage  HTML
  * @since       3.1
  */
 class JHtmlFieldTelTest_DataSet

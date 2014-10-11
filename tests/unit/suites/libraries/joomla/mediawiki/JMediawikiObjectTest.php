@@ -14,8 +14,6 @@ require_once __DIR__ . '/stubs/JMediawikiObjectMock.php';
 /**
  * Test class for JMediawikiCategories.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Mediawiki
  *
  * @since       12.3
  */

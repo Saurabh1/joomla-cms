@@ -10,8 +10,6 @@
 /**
  * Test class for JOpenstreetmap.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Openstreetmap
  * @since       13.1
  */
 class JOpenstreetmapTest extends TestCase

@@ -10,8 +10,6 @@
 /**
  * Test class for JOpenstreetmapOauth.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Openstreetmap
  * @since       13.1
  */
 class JOpenstreetmapOauthTest extends TestCase

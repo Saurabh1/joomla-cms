@@ -12,8 +12,6 @@ require_once __DIR__ . '/JErrorInspector.php';
 /**
  * Test class for JError.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Error
  * @since       12.3
  */
 class JErrorTest extends TestCase

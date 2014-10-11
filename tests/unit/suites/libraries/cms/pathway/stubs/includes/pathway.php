@@ -10,8 +10,6 @@
 /**
  * Stub class to test JPathway.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Pathway
  * @since       3.1
  */
 class JPathwayInspector2 extends JPathway

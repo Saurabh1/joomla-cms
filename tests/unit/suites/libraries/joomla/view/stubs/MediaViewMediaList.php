@@ -10,8 +10,6 @@
 /**
  * Mockup MediaViewMediaList class
  *
- * @package     Joomla.UnitTest
- * @subpackage  View
  * @since       11.3
  */
 class MediaViewMediaList extends JViewLegacy

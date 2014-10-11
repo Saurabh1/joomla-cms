@@ -10,8 +10,6 @@
 /**
  * Test class for JFacebookAlbum.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Facebook
  * @since       13.1
  */
 class JFacebookAlbumTest extends TestCase

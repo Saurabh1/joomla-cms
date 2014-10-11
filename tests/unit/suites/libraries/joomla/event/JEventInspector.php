@@ -10,8 +10,6 @@
 /**
  * General inspector class for JEvent.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Event
  * @since       11.3
  */
 class JEventInspector extends JEvent

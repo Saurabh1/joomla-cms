@@ -10,8 +10,6 @@
 /**
  * Stub class to test JEvent
  *
- * @package     Joomla.UnitTest
- * @subpackage  Event
  * @since       11.1
  */
 class JEventStub extends JEvent

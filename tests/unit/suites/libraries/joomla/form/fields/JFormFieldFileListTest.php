@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('filelist');
 /**
  * Test class for JFormFieldFileList.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       12.1
  */
 class JFormFieldFileListTest extends TestCase

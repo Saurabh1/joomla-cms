@@ -10,8 +10,6 @@
 /**
  * Test class for JCryptCipherSimple.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Crypt
  * @since       12.1
  */
 class JCryptCipherSimpleTest extends TestCase

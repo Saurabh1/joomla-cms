@@ -10,8 +10,6 @@
 /**
  * Test class for JFilesystemHelper.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Event
  * @since       11.1
  */
 class JFilesystemHelperTest extends PHPUnit_Framework_TestCase

@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('usergroup');
 /**
  * Test class for JFormFieldUsergroup.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormFieldUsergroupTest extends TestCaseDatabase

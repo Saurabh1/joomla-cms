@@ -10,8 +10,6 @@
 /**
  * Test class for JApplicationSite.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Application
  * @since       3.2
  */
 class JApplicationSiteTest extends TestCaseDatabase

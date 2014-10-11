@@ -12,8 +12,6 @@ require_once JPATH_PLATFORM . '/joomla/linkedin/groups.php';
 /**
  * Test class for JLinkedinGroups.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Linkedin
  * @since       13.1
  */
 class JLinkedinGroupsTest extends TestCase

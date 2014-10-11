@@ -18,8 +18,6 @@ use SeleniumClient\WebElement;
 /**
  * Home Page Class
  *
- * @package     Joomla.Test
- * @subpackage  Webdriver
  * @since       3.2
  */
 class SiteContentCategoriesPage extends SitePage

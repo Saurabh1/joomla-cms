@@ -10,8 +10,6 @@
 /**
  * Test class for JFacebookUser.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Facebook
  * @since       13.1
  */
 class JFacebookUserTest extends TestCase

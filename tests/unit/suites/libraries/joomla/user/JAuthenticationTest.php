@@ -12,8 +12,6 @@ require_once JPATH_PLATFORM . '/joomla/user/authentication.php';
 /**
  * Tests for the JAuthentication class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Utilities
  * @since       11.1
  *
  * @runInSeparateProcess

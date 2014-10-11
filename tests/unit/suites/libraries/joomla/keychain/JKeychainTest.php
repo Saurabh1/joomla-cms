@@ -10,8 +10,6 @@
 /**
  * Tests for the Joomla Platform Keychain Class
  *
- * @package     Joomla.UnitTest
- * @subpackage  Keychain
  * @since       12.3
  */
 class JKeychainTest extends PHPUnit_Framework_TestCase

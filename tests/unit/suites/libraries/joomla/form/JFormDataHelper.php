@@ -10,8 +10,6 @@
 /**
  * Data for JForm tests.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormDataHelper
@@ -595,8 +593,6 @@ class JFormDataHelper
  *
  * @param   mixed  $value  Test
  *
- * @package        Joomla.UnitTest
- * @subpackage     Form
  *
  * @return void
  */

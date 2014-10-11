@@ -12,8 +12,6 @@ require_once __DIR__ . '/stubs/JWebClientInspector.php';
 /**
  * Test class for JApplicationWebClient.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Application
  * @since       11.3
  */
 class JApplicationWebClientTest extends PHPUnit_Framework_TestCase

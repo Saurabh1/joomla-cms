@@ -10,8 +10,6 @@
 /**
  * Test class for JHtmlSelect.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Html
  * @since       3.1
  */
 class JHtmlSelectTest extends PHPUnit_Framework_TestCase

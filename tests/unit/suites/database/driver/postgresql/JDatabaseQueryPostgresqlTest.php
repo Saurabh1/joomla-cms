@@ -10,8 +10,6 @@
 /**
  * Test class for JDatabaseQueryPostgresql.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       11.3
  */
 class JDatabaseQueryPostgresqlTest extends TestCase

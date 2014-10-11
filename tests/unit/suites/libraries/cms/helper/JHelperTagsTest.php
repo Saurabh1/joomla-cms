@@ -10,8 +10,6 @@
 /**
  * Test class for JHelperTags.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Helper
  * @since       3.1
  */
 class JHelperTagsTest extends TestCaseDatabase

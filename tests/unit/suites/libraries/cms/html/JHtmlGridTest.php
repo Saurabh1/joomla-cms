@@ -10,8 +10,6 @@
 /**
  * Test class for JHtmlGrid.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Html
  * @since       3.1
  */
 class JHtmlGridTest extends PHPUnit_Framework_TestCase

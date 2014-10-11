@@ -18,8 +18,6 @@ use SeleniumClient\WebElement;
 /**
  * Page class for Front End Archived Articles
  *
- * @package     Joomla.Test
- * @subpackage  Webdriver
  * @since       3.2
  */
 class SiteArchivedArticlesPage extends SitePage

@@ -12,8 +12,6 @@ require_once __DIR__ . '/stubs/JFacebookObjectMock.php';
 /**
  * Test class for JFacebookObject.
  *
- * @package     Joomla.Platform
- * @subpackage  Facebook
  * @since       13.1
  */
 class JFacebookObjectTest extends TestCase

@@ -10,8 +10,6 @@
 /**
  * Data set class for JHtmlFieldNumber.
  *
- * @package     Joomla.UnitTest
- * @subpackage  HTML
  * @since       3.1
  */
 class JHtmlFieldNumberTest_DataSet

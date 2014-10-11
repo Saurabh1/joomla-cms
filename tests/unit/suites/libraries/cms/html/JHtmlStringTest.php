@@ -10,8 +10,6 @@
 /**
  * Tests for JHtmlString.
  *
- * @package     Joomla.UnitTest
- * @subpackage  HTML
  * @since       3.1
  */
 class JHtmlStringTest extends PHPUnit_Framework_TestCase

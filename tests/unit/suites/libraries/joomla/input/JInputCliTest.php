@@ -10,8 +10,6 @@
 /**
  * Test class for JInputCli.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Input
  * @since       11.1
  */
 class JInputCliTest extends PHPUnit_Framework_TestCase

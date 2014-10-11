@@ -10,8 +10,6 @@
 /**
  * A mock user authentication plugin.
  *
- * @package     Joomla.UnitTest
- * @subpackage  User
  * @since       11.1
  */
 class PlgAuthenticationFake

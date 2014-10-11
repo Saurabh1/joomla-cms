@@ -12,8 +12,6 @@ require_once __DIR__ . '/stubs/dbtestcomposite.php';
 /**
  * Test class for JTable.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Table
  * @since       12.3
  */
 class JTableTest extends TestCaseDatabase

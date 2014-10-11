@@ -10,8 +10,6 @@
 /**
  * JStringTest DataSet
  *
- * @package     Joomla.UnitTest
- * @subpackage  String
  * @since       11.3
  */
 class JStringTest_DataSet

@@ -13,8 +13,6 @@ require_once __DIR__ . '/stubs/callback/helper.php';
 /**
  * Test class for JLogLoggerCallback.
  *
- * @package     Joomla.Platform
- * @subpackage  Log
  * @since       12.2
  */
 class JLogLoggerCallbackTest extends PHPUnit_Framework_TestCase

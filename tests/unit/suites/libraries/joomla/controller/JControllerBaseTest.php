@@ -12,8 +12,6 @@ JLoader::register('BaseController', __DIR__ . '/stubs/tbase.php');
 /**
  * Tests for the JController class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Controller
  * @since       12.1
  */
 class JControllerBaseTest extends TestCase

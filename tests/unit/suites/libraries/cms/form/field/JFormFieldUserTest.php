@@ -10,8 +10,6 @@
 /**
  * Test class for JFormFieldUser.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       3.0
  */
 class JFormFieldUserTest extends PHPUnit_Framework_TestCase

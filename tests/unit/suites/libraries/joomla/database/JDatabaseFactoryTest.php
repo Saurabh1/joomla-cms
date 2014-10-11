@@ -10,8 +10,6 @@
 /**
  * Test class for JDatabaseFactory.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       3.2
  */
 class JDatabaseFactoryTest extends TestCaseDatabase

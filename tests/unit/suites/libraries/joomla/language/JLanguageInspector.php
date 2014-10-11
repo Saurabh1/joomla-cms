@@ -11,8 +11,6 @@ require_once JPATH_PLATFORM . '/joomla/language/language.php';
 /**
  * Inspector for the JLanguage class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Language
  * @since       12.1
  */
 class JLanguageInspector extends JLanguage

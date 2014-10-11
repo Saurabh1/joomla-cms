@@ -13,8 +13,6 @@ require_once __DIR__ . '/JEventStub.php';
 /**
  * Test class for JEvent.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Event
  * @since       11.3
  */
 class JEventTest extends PHPUnit_Framework_TestCase

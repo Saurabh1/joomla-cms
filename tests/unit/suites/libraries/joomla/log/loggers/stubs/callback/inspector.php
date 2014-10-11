@@ -14,8 +14,6 @@
 /**
  * JLogLoggerCallbackInspector class for testing JLogLoggerCallback
  *
- * @package     Joomla.UnitTest
- * @subpackage  Log
  *
  * @since       12.2
  */

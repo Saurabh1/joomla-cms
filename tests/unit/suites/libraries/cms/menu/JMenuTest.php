@@ -10,8 +10,6 @@
 /**
  * Test class for JMenu.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Menu
  * @since       3.1
  */
 class JMenuTest extends TestCase

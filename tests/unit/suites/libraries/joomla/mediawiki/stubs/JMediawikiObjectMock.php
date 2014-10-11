@@ -10,8 +10,6 @@
 /**
  * JMediawikiObjectMock class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Mediawiki
  *
  * @since       12.3
  */

@@ -10,8 +10,6 @@
 /**
  * Test class for JToolbarButtonStandard.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Toolbar
  * @since       3.0
  */
 class JToolbarButtonStandardTest extends PHPUnit_Framework_TestCase

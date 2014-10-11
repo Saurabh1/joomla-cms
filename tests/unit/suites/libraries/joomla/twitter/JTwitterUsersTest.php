@@ -10,8 +10,6 @@
 /**
  * Test class for JTwitterUsers.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Twitter
  *
  * @since       12.3
  */

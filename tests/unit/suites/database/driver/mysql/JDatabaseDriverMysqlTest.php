@@ -10,8 +10,6 @@
 /**
  * Test class for JDatabaseDriverMysql.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       11.1
  */
 class JDatabaseDriverMysqlTest extends TestCaseDatabaseMysql

@@ -10,8 +10,6 @@
 /**
  * Test class for JFeedLink.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Feed
  * @since       12.3
  */
 class JFeedLinkTest extends TestCase

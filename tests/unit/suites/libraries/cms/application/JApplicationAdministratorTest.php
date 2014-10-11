@@ -10,8 +10,6 @@
 /**
  * Test class for JApplicationAdministrator.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Application
  * @since       3.2
  */
 class JApplicationAdministratorTest extends TestCaseDatabase

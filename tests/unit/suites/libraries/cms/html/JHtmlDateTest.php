@@ -10,8 +10,6 @@
 /**
  * Test class for JHtmlDate.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Html
  * @since       3.1
  */
 class JHtmlDateTest extends TestCase

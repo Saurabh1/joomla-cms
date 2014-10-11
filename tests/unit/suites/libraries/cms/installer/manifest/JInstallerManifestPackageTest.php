@@ -10,8 +10,6 @@
 /**
  * Test class for JInstallerManifestPackage.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Installer
  * @since       3.1
  */
 class JInstallerManifestPackageTest extends TestCase

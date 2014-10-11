@@ -13,8 +13,6 @@ require_once JPATH_PLATFORM . '/joomla/http/transport/stream.php';
 /**
  * Test class for JGithub.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Github
  *
  * @since       11.1
  */

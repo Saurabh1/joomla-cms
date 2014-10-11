@@ -11,8 +11,6 @@ require_once JPATH_TESTS . '/suites/libraries/joomla/application/stubs/JApplicat
 /**
  * Test class for JGoogleAuthOauth2Test .
  *
- * @package     Joomla.UnitTest
- * @subpackage  Google
  * @since       12.3
  */
 class JGoogleAuthOauth2Test extends TestCase

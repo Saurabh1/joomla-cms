@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('hidden');
 /**
  * Test class for JFormFieldHidden.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormFieldHiddenTest extends TestCaseDatabase

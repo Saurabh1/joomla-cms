@@ -12,8 +12,6 @@ require_once JPATH_PLATFORM . '/joomla/database/query.php';
 /**
  * Test class for JDatabaseQueryElement.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       11.1
  */
 class JDatabaseQueryElementTest extends PHPUnit_Framework_TestCase

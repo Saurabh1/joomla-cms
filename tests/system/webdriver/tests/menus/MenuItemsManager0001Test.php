@@ -17,8 +17,6 @@ use SeleniumClient\DesiredCapabilities;
 /**
  * This class tests the  Manager: Add / Edit  Screen.
  *
- * @package     Joomla.Test
- * @subpackage  Webdriver
  * @since       3.0
  */
 class MenuItemsManager0001Test extends JoomlaWebdriverTestCase

@@ -10,8 +10,6 @@
 /**
  * Test class for JSchemaChangeitemPostgresql.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Schema
  * @since       3.0
  */
 class JSchemaChangeitemPostgresqlTest extends PHPUnit_Framework_TestCase

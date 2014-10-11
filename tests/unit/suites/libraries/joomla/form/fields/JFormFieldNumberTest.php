@@ -12,8 +12,6 @@ require_once __DIR__ . '/TestHelpers/JHtmlFieldNumber-helper-dataset.php';
 /**
  * Test class for JFormFieldUrl.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       12.1
  */
 class JFormFieldNumberTest extends TestCaseDatabase

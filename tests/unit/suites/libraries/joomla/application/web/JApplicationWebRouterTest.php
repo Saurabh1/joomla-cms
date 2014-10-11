@@ -14,8 +14,6 @@ JLoader::register('MyTestControllerFoo', __DIR__ . '/stubs/controllers/foo.php')
 /**
  * Test class for JApplicationWebRouter.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Application
  * @since       12.3
  */
 class JApplicationWebRouterTest extends TestCase

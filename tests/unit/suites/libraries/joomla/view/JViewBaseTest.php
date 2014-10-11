@@ -13,8 +13,6 @@ JLoader::register('JModelMock', __DIR__ . '/mocks/JModelMock.php');
 /**
  * Tests for the JViewBase class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  View
  * @since       12.1
  */
 class JViewBaseTest extends TestCase

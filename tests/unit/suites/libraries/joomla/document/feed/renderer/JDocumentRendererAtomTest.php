@@ -10,8 +10,6 @@
 /**
  * Test class for JDocumentRendererAtom.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Document
  * @since       11.1
  */
 class JDocumentRendererAtomTest extends TestCase

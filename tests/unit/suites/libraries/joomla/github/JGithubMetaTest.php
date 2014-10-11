@@ -10,8 +10,6 @@
 /**
  * Test class for JGithubMeta.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Github
  * @since       13.1
  */
 class JGithubMetaTest extends TestCase

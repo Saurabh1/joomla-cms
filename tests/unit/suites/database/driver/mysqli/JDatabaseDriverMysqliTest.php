@@ -10,8 +10,6 @@
 /**
  * Test class for JDatabaseDriverMysqli.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       11.1
  */
 class JDatabaseDriverMysqliTest extends TestCaseDatabaseMysqli

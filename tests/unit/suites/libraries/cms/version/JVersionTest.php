@@ -10,8 +10,6 @@
 /**
  * Test class for JVersion.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Version
  * @since       3.0
  */
 class JVersionTest extends PHPUnit_Framework_TestCase

@@ -10,8 +10,6 @@
 /**
  * JFilterInputTest
  *
- * @package     Joomla.UnitTest
- * @subpackage  Filter
  * @since       11.1
  */
 class JFilterInputTest extends PHPUnit_Framework_TestCase

@@ -10,8 +10,6 @@
 /**
  * Test class for JFormFieldMedia.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       3.0
  */
 class JFormFieldMediaTest extends PHPUnit_Framework_TestCase

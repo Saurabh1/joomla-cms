@@ -10,8 +10,6 @@
 /**
  * Test class for JHtmlRules.
  *
- * @package     Joomla.UnitTest
- * @subpackage  HTML
  * @since       3.1
  */
 class JHtmlRulesTest extends PHPUnit_Framework_TestCase

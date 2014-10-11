@@ -18,8 +18,6 @@ use SeleniumClient\WebElement;
 /**
  * Getting Started Front End Page Class
  *
- * @package     Joomla.Test
- * @subpackage  Webdriver
  * @since       3.2
  */
 class SiteSingleArticlePage extends SitePage

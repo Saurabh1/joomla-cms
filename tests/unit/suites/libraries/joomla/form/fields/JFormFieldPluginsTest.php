@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('plugins');
 /**
  * Test class for JFormFieldPlugins.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.4
  */
 class JFormFieldPluginsTest extends TestCaseDatabase

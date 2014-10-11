@@ -13,8 +13,6 @@ JLoader::register('JDataCapitaliser', __DIR__ . '/stubs/capitaliser.php');
 /**
  * Tests for the JData class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Data
  * @since       12.3
  */
 class JDataTest extends TestCase

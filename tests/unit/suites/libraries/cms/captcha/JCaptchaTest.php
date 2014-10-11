@@ -10,8 +10,6 @@
 /**
  * Test class for JCaptcha.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Captcha
  * @since       3.0
  */
 class JCaptchaTest extends PHPUnit_Framework_TestCase

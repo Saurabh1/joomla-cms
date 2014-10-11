@@ -10,8 +10,6 @@
 /**
  * Test the JDatabaseImporterPostgresql class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       12.1
  */
 class JDatabaseImporterPostgresqlTest extends PHPUnit_Framework_TestCase

@@ -10,8 +10,6 @@
 /**
  * Test class for JTwitterBlock.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Twitter
  *
  * @since       12.3
  */

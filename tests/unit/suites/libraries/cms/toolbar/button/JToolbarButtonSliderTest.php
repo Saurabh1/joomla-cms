@@ -10,8 +10,6 @@
 /**
  * Test class for JToolbarButtonSlider.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Toolbar
  * @since       3.0
  */
 class JToolbarButtonSliderTest extends PHPUnit_Framework_TestCase

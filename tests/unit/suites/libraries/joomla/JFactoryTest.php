@@ -11,8 +11,6 @@ require_once JPATH_PLATFORM . '/joomla/factory.php';
 /**
  * Tests for JDate class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Utilities
  * @since       11.3
  */
 class JFactoryTest extends TestCase

@@ -9,8 +9,6 @@
 /**
  * Test class for JDatabaseDriverSqlsrv.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       12.1
  */
 class JDatabaseDriverSqlsrvTest extends TestCaseDatabaseSqlsrv

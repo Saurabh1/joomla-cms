@@ -10,8 +10,6 @@
 /**
  * Interface to JCache methods.  Used for testing of cache storage.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Cache
  *
  * @since       11.1
  */

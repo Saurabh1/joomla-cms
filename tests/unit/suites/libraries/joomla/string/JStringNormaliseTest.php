@@ -10,8 +10,6 @@
 /**
  * JStringNormaliseTest
  *
- * @package     Joomla.UnitTest
- * @subpackage  String
  * @since       11.3
  */
 class JStringNormaliseTest extends PHPUnit_Framework_TestCase

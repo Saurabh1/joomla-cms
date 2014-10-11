@@ -10,8 +10,6 @@
 /**
  * Stub to test JModelLegacy.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Model
  *
  * @since       12.3
  */

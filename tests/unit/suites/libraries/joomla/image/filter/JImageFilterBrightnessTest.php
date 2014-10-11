@@ -10,8 +10,6 @@
 /**
  * Test class for JImage.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Image
  * @since       11.4
  */
 class JImageFilterBrightnessTest extends TestCase

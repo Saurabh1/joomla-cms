@@ -10,8 +10,6 @@
 /**
  * Joomla Platform Capitaliser Object Class
  *
- * @package     Joomla.UnitTest
- * @subpackage  Object
  * @since       12.1
  */
 class JDataCapitaliser extends JData

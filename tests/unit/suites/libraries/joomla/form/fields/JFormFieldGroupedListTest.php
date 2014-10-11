@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('groupedlist');
 /**
  * Test class for JFormFieldGroupedList.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       12.1
  */
 class JFormFieldGroupedListTest extends TestCase

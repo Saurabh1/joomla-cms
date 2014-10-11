@@ -10,8 +10,6 @@
 /**
  * Test class for JToolbarButtonLink.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Toolbar
  * @since       3.0
  */
 class JToolbarButtonLinkTest extends TestCase

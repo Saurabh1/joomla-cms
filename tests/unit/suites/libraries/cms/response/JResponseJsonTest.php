@@ -12,8 +12,6 @@ require_once __DIR__ . '/stubs/mock.application.php';
 /**
  * Test class for JResponseJson.
  *
- * @package     Joomla.UnitTest
- * @subpackage  JResponseJson
  * @since       3.1
  */
 class JResponseJsonTest extends TestCase

@@ -18,8 +18,6 @@ use SeleniumClient\WebElement;
 /**
  * Page class for the back-end menu Redirect manager screen.
  *
- * @package     Joomla.Test
- * @subpackage  Webdriver
  * @since       3.0
  */
 class RedirectEditPage extends AdminEditPage

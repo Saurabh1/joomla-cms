@@ -12,8 +12,6 @@ jimport('joomla.filesystem.path');
 /**
  * Test class for JAccess.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Access
  * @since       11.1
  */
 class JAccessTest extends TestCaseDatabase

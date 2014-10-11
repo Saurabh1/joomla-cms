@@ -10,8 +10,6 @@
 /**
  * Test class for JFormFieldModuleorder.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       3.0
  */
 class JFormFieldModuleorderTest extends PHPUnit_Framework_TestCase

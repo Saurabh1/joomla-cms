@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('color');
 /**
  * Test class for JFormFieldColor.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       12.1
  */
 class JFormFieldColorTest extends TestCaseDatabase

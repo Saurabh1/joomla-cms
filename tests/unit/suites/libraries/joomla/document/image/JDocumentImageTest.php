@@ -12,8 +12,6 @@ require_once JPATH_PLATFORM . '/joomla/document/image/image.php';
 /**
  * Test class for JDocumentImage.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Document
  * @since       13.1
  */
 class JDocumentImageTest extends TestCase

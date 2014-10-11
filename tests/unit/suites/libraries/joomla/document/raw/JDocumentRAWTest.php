@@ -12,8 +12,6 @@ require_once JPATH_PLATFORM . '/joomla/document/raw/raw.php';
 /**
  * Test class for JDocumentRAW.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Document
  * @since       11.1
  */
 class JDocumentRAWTest extends TestCase

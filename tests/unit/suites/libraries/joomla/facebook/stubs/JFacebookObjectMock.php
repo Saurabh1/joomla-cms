@@ -10,8 +10,6 @@
 /**
  * Facebook mock object.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Facebook
  * @since       13.1
  */
 class JFacebookObjectMock extends JFacebookObject

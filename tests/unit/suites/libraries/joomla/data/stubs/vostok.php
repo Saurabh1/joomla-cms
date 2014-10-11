@@ -10,8 +10,6 @@
 /**
  * Derived JDataSet class for testing.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Object
  * @since       12.1
  *
  * @method      launch() launch(string $status)

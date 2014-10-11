@@ -10,8 +10,6 @@
 /**
  * Test class for JInputCookie.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Input
  * @since       11.1
  */
 class JInputCookieTest extends PHPUnit_Framework_TestCase

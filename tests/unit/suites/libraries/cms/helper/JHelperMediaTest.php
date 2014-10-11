@@ -10,8 +10,6 @@
 /**
  * Test class for JHelperMedia.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Media
  * @since       3.2
  */
 class JHelperMediaTest extends TestCaseDatabase

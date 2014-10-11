@@ -10,8 +10,6 @@
 /**
  * Test class for JFormFieldHelpsite.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       3.1
  */
 class JFormFieldHelpsiteTest extends TestCase

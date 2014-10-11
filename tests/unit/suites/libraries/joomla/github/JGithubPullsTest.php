@@ -10,8 +10,6 @@
 /**
  * Test class for JGithubPulls.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Github
  *
  * @since       11.1
  */

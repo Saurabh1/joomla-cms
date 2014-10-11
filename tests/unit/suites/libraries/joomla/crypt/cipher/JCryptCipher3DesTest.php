@@ -13,8 +13,6 @@ JLoader::register('JCryptCipher3Des', JPATH_PLATFORM . '/joomla/crypt/cipher/3de
 /**
  * Test class for JCryptCipher3Des.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Crypt
  * @since       12.1
  */
 class JCryptCipher3DesTest extends TestCase

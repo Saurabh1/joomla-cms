@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('list');
 /**
  * Test class for JFormFieldList.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       11.1
  */
 class JFormFieldListTest extends TestCase

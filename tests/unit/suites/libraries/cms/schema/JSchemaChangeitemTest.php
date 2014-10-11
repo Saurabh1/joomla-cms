@@ -10,8 +10,6 @@
 /**
  * Test class for JSchemaChangeitem.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Schema
  * @since       3.0
  */
 class JSchemaChangeitemTest extends PHPUnit_Framework_TestCase

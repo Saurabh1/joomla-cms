@@ -10,8 +10,6 @@
 /**
  * Test class for JHtmlForm.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Html
  * @since       3.1
  */
 class JHtmlFormTest extends TestCase

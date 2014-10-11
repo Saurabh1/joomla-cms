@@ -13,8 +13,6 @@ require_once __DIR__ . '/stubs/JImageFilterInspector.php';
 /**
  * Test class for JImage.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Image
  * @since       11.3
  */
 class JImageTest extends TestCase

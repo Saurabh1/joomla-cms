@@ -12,8 +12,6 @@ require_once JPATH_PLATFORM . '/joomla/linkedin/companies.php';
 /**
  * Test class for JLinkedinCompanies.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Linkedin
  * @since       13.1
  */
 class JLinkedinCompaniesTest extends TestCase

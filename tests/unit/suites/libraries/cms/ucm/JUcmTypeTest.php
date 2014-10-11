@@ -10,8 +10,6 @@
 /**
  * Test class for JUcmType.
  *
- * @package     Joomla.UnitTest
- * @subpackage  UCM
  * @since       3.2
  */
 class JUcmTypeTest extends TestCaseDatabase

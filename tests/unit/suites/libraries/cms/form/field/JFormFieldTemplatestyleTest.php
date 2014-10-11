@@ -10,8 +10,6 @@
 /**
  * Test class for JFormFieldTemplatestyle.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       3.0
  */
 class JFormFieldTemplatestyleTest extends PHPUnit_Framework_TestCase

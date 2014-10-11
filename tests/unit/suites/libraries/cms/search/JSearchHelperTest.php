@@ -10,8 +10,6 @@
 /**
  * Test class for JSearchHelper.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Search
  * @since       3.0
  */
 class JSearchHelperTest extends PHPUnit_Framework_TestCase

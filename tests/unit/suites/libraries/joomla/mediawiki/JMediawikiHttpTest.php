@@ -13,8 +13,6 @@ require_once JPATH_PLATFORM . '/joomla/http/transport/stream.php';
 /**
  * Test class for JMediawikiHttp.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Mediawiki
  *
  * @since       12.3
  */

@@ -14,8 +14,6 @@ require_once JPATH_PLATFORM . '/joomla/mediawiki/search.php';
 /**
  * Test class for JMediawikiSearch.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Mediawiki
  *
  * @since       12.3
  */

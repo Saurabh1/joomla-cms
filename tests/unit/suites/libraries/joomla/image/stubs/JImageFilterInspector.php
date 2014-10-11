@@ -12,8 +12,6 @@ defined('JPATH_PLATFORM') or die;
 /**
  * Image Filter class inspector for testing purposes.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Image
  * @since       11.3
  */
 class JImageFilterInspector extends JImageFilter

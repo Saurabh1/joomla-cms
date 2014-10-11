@@ -10,8 +10,6 @@
 /**
  * Test class for JDatabaseIteratorSqlsrv.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       12.1
  */
 class JDatabaseIteratorSqlsrvTest extends TestCaseDatabaseSqlsrv

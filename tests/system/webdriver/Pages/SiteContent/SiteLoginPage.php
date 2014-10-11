@@ -18,8 +18,6 @@ use SeleniumClient\WebElement;
 /**
  * Page class for front end login page
  *
- * @package     Joomla.Test
- * @subpackage  Webdriver
  * @since       3.2
  */
 class SiteLoginPage extends SitePage

@@ -13,8 +13,6 @@ require_once __DIR__ . '/TestHelpers/JHtmlFieldEmail-helper-dataset.php';
 /**
  * Test class for JFormFieldEMail.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       12.1
  */
 class JFormFieldEMailTest extends TestCaseDatabase

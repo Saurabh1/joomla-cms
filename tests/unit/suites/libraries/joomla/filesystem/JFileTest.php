@@ -9,8 +9,6 @@
 /**
  * Test class for JFile.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Event
  * @since       11.1
  */
 class JFileTest extends PHPUnit_Framework_TestCase

@@ -10,8 +10,6 @@
 /**
  * Test for the JStringInflector class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  String
  * @link        http://en.wikipedia.org/wiki/English_plural
  * @since       12.1
  */

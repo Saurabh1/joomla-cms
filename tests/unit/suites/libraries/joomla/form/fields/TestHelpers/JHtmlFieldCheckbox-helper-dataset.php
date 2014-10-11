@@ -10,8 +10,6 @@
 /**
  * Data set class for JHtmlFieldCheckbox.
  *
- * @package     Joomla.UnitTest
- * @subpackage  HTML
  * @since       3.1
  */
 class JHtmlFieldCheckboxTest_DataSet

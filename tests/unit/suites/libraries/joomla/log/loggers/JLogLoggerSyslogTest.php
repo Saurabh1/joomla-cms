@@ -10,8 +10,6 @@
 /**
  * Test class for JLogLoggerSysLog.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Log
  * @since       11.1
  */
 class JLogLoggerSysLogTest extends PHPUnit_Framework_TestCase

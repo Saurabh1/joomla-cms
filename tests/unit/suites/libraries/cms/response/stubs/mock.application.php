@@ -10,8 +10,6 @@
 /**
  * Test mock class JResponseJson.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Response
  * @since       12.2
  */
 class JApplicationResponseJsonMock

@@ -10,8 +10,6 @@
 /**
  * Test class for JHtmlAccess.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Html
  * @since       3.1
  */
 class JHtmlAccessTest extends PHPUnit_Framework_TestCase

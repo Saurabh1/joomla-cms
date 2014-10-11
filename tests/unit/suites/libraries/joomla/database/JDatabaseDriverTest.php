@@ -12,8 +12,6 @@ require_once __DIR__ . '/stubs/nosqldriver.php';
 /**
  * Test class for JDatabaseDriver.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       3.1
  */
 class JDatabaseDriverTest extends TestCaseDatabase

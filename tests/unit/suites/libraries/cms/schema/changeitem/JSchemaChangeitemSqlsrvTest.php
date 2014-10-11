@@ -10,8 +10,6 @@
 /**
  * Test class for JSchemaChangeitemSqlsrv.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Schema
  * @since       3.0
  */
 class JSchemaChangeitemSqlsrvTest extends PHPUnit_Framework_TestCase

@@ -13,8 +13,6 @@ JLoader::register('JFeedParserMockNamespace', __DIR__ . '/stubs/JFeedParserMockN
 /**
  * Test class for JFeedFactory.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Feed
  * @since       12.3
  */
 class JFeedFactoryTest extends TestCase

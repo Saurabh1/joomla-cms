@@ -10,8 +10,6 @@
 /**
  * Test class for JFormFieldChromestyle.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       3.0
  */
 class JFormFieldChromestyleTest extends PHPUnit_Framework_TestCase

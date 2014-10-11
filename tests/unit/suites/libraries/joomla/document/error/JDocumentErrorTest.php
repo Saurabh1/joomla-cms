@@ -12,8 +12,6 @@ include_once JPATH_PLATFORM . '/joomla/document/error/error.php';
 /**
  * Test class for JDocumentError.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Document
  * @since       11.1
  */
 class JDocumentErrorTest extends PHPUnit_Framework_TestCase

@@ -13,8 +13,6 @@ require_once __DIR__ . '/stubs/JLinkedinObjectMock.php';
 /**
  * Test class for JLinkedinObject.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Linkedin
  *
  * @since       13.1
  */

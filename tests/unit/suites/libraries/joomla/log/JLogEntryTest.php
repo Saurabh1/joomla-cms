@@ -10,8 +10,6 @@
 /**
  * Test class for JLogEntry.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Log
  * @since       11.1
  */
 class JLogEntryTest extends PHPUnit_Framework_TestCase

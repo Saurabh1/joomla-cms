@@ -10,8 +10,6 @@
 /**
  * Inspector for the JApplicationCli class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Application
  *
  * @since       11.1
  */

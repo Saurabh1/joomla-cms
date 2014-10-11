@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('imagelist');
 /**
  * Test class for JFormFieldImageList.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       12.1
  */
 class JFormFieldImageListTest extends TestCase

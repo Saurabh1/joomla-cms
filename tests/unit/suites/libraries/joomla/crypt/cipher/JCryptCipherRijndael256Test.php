@@ -10,8 +10,6 @@
 /**
  * Test class for JCryptCipherRijndael256.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Crypt
  * @since       12.1
  */
 class JCryptCipherRijndael256Test extends TestCase

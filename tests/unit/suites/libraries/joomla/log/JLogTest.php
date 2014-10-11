@@ -15,8 +15,6 @@ require_once __DIR__ . '/stubs/log/inspector.php';
 /**
  * Test class for JLog.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Log
  * @since       11.1
  */
 class JLogTest extends PHPUnit_Framework_TestCase

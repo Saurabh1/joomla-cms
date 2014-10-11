@@ -10,8 +10,6 @@
 /**
  * Mock Feed Parser namespace class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Feed
  * @since       12.3
  */
 class JFeedParserMockNamespace implements JFeedParserNamespace

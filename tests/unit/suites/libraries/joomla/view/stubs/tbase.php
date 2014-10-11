@@ -10,8 +10,6 @@
 /**
  * Concrete class extending JViewBase.
  *
- * @package     Joomla.UnitTest
- * @subpackage  View
  * @since       12.1
  */
 class BaseView extends JViewBase

@@ -10,8 +10,6 @@
 /**
  * Inspector for the JImage class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Image
  * @since       11.3
  */
 class JImageInspector extends JImage

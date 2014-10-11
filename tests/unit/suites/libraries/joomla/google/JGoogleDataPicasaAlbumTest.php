@@ -9,8 +9,6 @@
 /**
  * Test class for JGoogleDataPicasa.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Google
  * @since       12.3
  */
 class JGoogleDataPicasaAlbumTest extends TestCase

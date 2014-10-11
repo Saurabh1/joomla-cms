@@ -12,8 +12,6 @@ require_once JPATH_PLATFORM . '/joomla/document/opensearch/opensearch.php';
 /**
  * Test class for JDocumentOpensearch.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Document
  * @since       11.1
  */
 class JDocumentOpensearchTest extends TestCase

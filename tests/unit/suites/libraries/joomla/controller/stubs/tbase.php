@@ -10,8 +10,6 @@
 /**
  * Concrete class extending JControllerBase.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Controller
  * @since       12.1
  */
 class BaseController extends JControllerBase

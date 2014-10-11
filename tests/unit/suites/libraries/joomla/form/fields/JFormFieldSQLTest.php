@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('sql');
 /**
  * Test class for JFormFieldSQL.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       12.1
  */
 class JFormFieldSQLTest extends TestCaseDatabase

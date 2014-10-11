@@ -10,8 +10,6 @@
 /**
  * Test class for JGithubEvents.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Github
  * @since       12.3
  */
 class JGithubPackageActivityEventsTest extends PHPUnit_Framework_TestCase

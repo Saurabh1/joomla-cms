@@ -12,8 +12,6 @@ JFormHelper::loadFieldClass('folderlist');
 /**
  * Test class for JFormFieldFolderList.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  * @since       12.1
  */
 class JFormFieldFolderListTest extends TestCase

@@ -10,8 +10,6 @@
 /**
  * Test class for JControllerAdmin.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Controller
  *
  * @since       12.3
  */

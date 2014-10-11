@@ -9,8 +9,6 @@
 /**
  * Test class for JGoogleDataCalendar.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Google
  * @since       12.3
  */
 class JGoogleDataCalendarTest extends TestCase

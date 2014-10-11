@@ -10,8 +10,6 @@
 /**
  * Test class for JCryptPasswordSimple.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Crypt
  * @since       11.1
  */
 class JCryptPasswordSimpleTest extends PHPUnit_Framework_TestCase

@@ -10,8 +10,6 @@
 /**
  * Test class for JFacebookLink.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Facebook
  * @since       13.1
  */
 class JFacebookLinkTest extends TestCase

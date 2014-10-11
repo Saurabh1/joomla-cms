@@ -10,8 +10,6 @@
 /**
  * Test class for JDatabaseQuerySqlite.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       11.3
  */
 class JDatabaseQuerySqliteTest extends TestCase

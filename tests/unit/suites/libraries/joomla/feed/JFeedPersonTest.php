@@ -10,8 +10,6 @@
 /**
  * Test class for JFeedPerson.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Feed
  * @since       12.3
  */
 class JFeedPersonTest extends TestCase

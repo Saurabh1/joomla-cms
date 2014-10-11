@@ -10,8 +10,6 @@
 /**
  * DbTestComposite table connector class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Table
  * @since       12.1
  */
 class TableDbTestComposite extends JTable

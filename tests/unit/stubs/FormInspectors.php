@@ -14,8 +14,6 @@
 /**
  * JFormInspector class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  *
  * @since       11.1
  */
@@ -212,8 +210,6 @@ class JFormInspector extends JForm
 /**
  * JFormFieldInspector class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Form
  *
  * @since       11.1
  */

@@ -14,8 +14,6 @@
  *
  * We now return to our regularly scheduled environment.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Cache
  *
  * @since       11.1
  */

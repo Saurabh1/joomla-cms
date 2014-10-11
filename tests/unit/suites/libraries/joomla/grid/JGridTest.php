@@ -10,8 +10,6 @@
 /**
  * General inspector class for JGrid.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Grid
  * @since       11.3
  */
 class JGridInspector extends JGrid
@@ -67,8 +65,6 @@ class JGridInspector extends JGrid
 /**
  * Test class for JGrid.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Github
  *
  * @since       11.3
  */

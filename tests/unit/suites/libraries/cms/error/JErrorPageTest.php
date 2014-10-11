@@ -10,8 +10,6 @@
 /**
  * Test class for JErrorPage.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Error
  * @since       3.0
  */
 class JErrorPageTest extends PHPUnit_Framework_TestCase

@@ -12,8 +12,6 @@ require_once __DIR__ . '/JPathwayInspector.php';
 /**
  * Test class for JPathway.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Pathway
  * @since       3.1
  */
 class JPathwayTest extends TestCase

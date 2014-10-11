@@ -10,8 +10,6 @@
 /**
  * Stub for testing the JControllerForm class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Controller
  *
  * @since       12.3
  */
@@ -22,8 +20,6 @@ class MincesControllerMince extends JControllerForm
 /**
  * Stub for testing the JControllerForm class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Controller
  *
  * @since       12.3
  */
@@ -34,8 +30,6 @@ class MiniesControllerMiny extends JControllerForm
 /**
  * Stub for testing the JControllerForm class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Controller
  *
  * @since       12.3
  */

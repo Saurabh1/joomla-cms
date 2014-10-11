@@ -10,8 +10,6 @@
 /**
  * NestedTable class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Table
  * @since       12.1
  */
 class NestedTable extends JTableNested

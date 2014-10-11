@@ -12,8 +12,6 @@ include_once __DIR__ . '/../application/stubs/JApplicationWebInspector.php';
 /**
  * Test class for JLinkedinOauth.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Twitter
  * @since       12.3
  */
 class JTwitterOauthTest extends TestCase

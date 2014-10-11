@@ -10,8 +10,6 @@
 /**
  * Tests the JDatabaseImporterMysqli class.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Database
  * @since       11.1
  */
 class JDatabaseImporterMysqliTest extends PHPUnit_Framework_TestCase

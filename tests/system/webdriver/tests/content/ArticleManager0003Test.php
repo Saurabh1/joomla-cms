@@ -17,8 +17,6 @@ use SeleniumClient\DesiredCapabilities;
 /**
  * This class tests the Article: Front End and Add/Edit Screens.
  *
- * @package    Joomla.Test
- * @subpackage Webdriver
  * @since      3.2
  */
 class ArticleManager0003Test extends JoomlaWebdriverTestCase

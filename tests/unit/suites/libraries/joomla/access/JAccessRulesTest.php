@@ -10,8 +10,6 @@
 /**
  * Test class for JAccessRules.
  *
- * @package     Joomla.Platform
- * @subpackage  Access
  * @since       11.1
  */
 class JAccessRulesTest extends PHPUnit_Framework_TestCase

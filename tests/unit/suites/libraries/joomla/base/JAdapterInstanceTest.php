@@ -13,8 +13,6 @@ jimport('joomla.base.adapterinstance');
 /**
  * Test class for JAdapterInstance.
  *
- * @package     Joomla.UnitTest
- * @subpackage  Base
  * @since       11.1
  */
 class JAdapterInstanceTest extends TestCase
