@@ -111,6 +111,7 @@ class JClientHelper
 						{
 							$return = true;
 						}
+
 						$ftp->quit();
 					}
 				}

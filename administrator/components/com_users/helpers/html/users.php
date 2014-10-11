@@ -198,6 +198,7 @@ class JHtmlUsers
 				'inactive_class'	=> 'publish'
 			)
 		);
+
 		return $states;
 	}
 }

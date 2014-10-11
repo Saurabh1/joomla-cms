@@ -168,11 +168,13 @@ class JArchiveGzip implements JArchiveExtractable
 					}
 				}
 			}
+
 			while ($this->_data);
 
 			$output->close();
 			$input->close();
 		}
+
 		return true;
 	}
 

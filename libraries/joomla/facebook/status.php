@@ -129,5 +129,4 @@ class JFacebookStatus extends JFacebookObject
 	{
 		return $this->deleteConnection($status, 'likes');
 	}
-
 }

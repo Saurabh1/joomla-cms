@@ -81,7 +81,6 @@ class ConfigModelComponent extends ConfigModelForm
 
 		if (empty($form))
 		{
-
 			return false;
 		}
 

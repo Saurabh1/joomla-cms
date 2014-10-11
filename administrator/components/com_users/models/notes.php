@@ -19,7 +19,7 @@ class UsersModelNotes extends JModelList
 	/**
 	 * Class constructor.
 	 *
-	 * @param  array  $config  An optional associative array of configuration settings.
+	 * @param   array  $config  An optional associative array of configuration settings.
 	 *
 	 * @since  2.5
 	 */
@@ -87,6 +87,7 @@ class UsersModelNotes extends JModelList
 
 		// Filter by search in title
 		$search = $this->getState('filter.search');
+
 		if (!empty($search))
 		{
 			if (stripos($search, 'id:') === 0)
@@ -106,16 +107,19 @@ class UsersModelNotes extends JModelList
 
 		// Filter by published state
 		$published = $this->getState('filter.state');
+
 		if (is_numeric($published))
 		{
-			$query->where('a.state = '.(int) $published);
-		} elseif ($published === '')
+			$query->where('a.state = ' . (int) $published);
+		}
+		elseif ($published === '')
 		{
 			$query->where('(a.state IN (0, 1))');
 		}
 
 		// Filter by a single or group of categories.
 		$categoryId = (int) $this->getState('filter.category_id');
+
 		if ($categoryId)
 		{
 			if (is_scalar($section))
@@ -126,6 +130,7 @@ class UsersModelNotes extends JModelList
 
 		// Filter by a single user.
 		$userId = (int) $this->getState('filter.user_id');
+
 		if ($userId)
 		{
 			// Add the body and where filter.
@@ -177,6 +182,7 @@ class UsersModelNotes extends JModelList
 
 		// Filter by search in title
 		$search = JFactory::getApplication()->input->get('u_id', 0, 'int');
+
 		if ($search != 0)
 		{
 			$user->load((int) $search);
@@ -189,6 +195,9 @@ class UsersModelNotes extends JModelList
 	 * Method to auto-populate the model state.
 	 *
 	 * Note. Calling getState in this method will result in recursion.
+	 *
+	 * @param   string  $ordering   An optional ordering field.
+	 * @param   string  $direction  An optional direction (asc|desc).
 	 *
 	 * @return  void
 	 *
@@ -208,7 +217,7 @@ class UsersModelNotes extends JModelList
 		$value = $app->getUserStateFromRequest($this->context . '.filter.search', 'filter_search');
 		$this->setState('filter.search', $value);
 
-		$published = $this->getUserStateFromRequest($this->context.'.filter.state', 'filter_published', '', 'string');
+		$published = $this->getUserStateFromRequest($this->context . '.filter.state', 'filter_published', '', 'string');
 		$this->setState('filter.state', $published);
 
 		$section = $app->getUserStateFromRequest($this->context . '.filter.category_id', 'filter_category_id');

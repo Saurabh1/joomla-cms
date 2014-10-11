@@ -20,6 +20,7 @@ class UsersHelperDebug
 	 * Get a list of the components.
 	 *
 	 * @return  array
+	 *
 	 * @since   1.6
 	 */
 	public static function getComponents()
@@ -60,9 +61,10 @@ class UsersHelperDebug
 	/**
 	 * Get a list of the actions for the component or code actions.
 	 *
-	 * @param   string    The name of the component.
+	 * @param   string  $component  The name of the component.
 	 *
 	 * @return  array
+	 *
 	 * @since   1.6
 	 */
 	public static function getDebugActions($component = null)
@@ -107,8 +109,7 @@ class UsersHelperDebug
 										(string) $action['description']
 									);
 								}
-								break;
-								break;
+
 								break;
 							}
 						}

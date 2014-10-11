@@ -41,6 +41,7 @@ class JFormRuleOptions extends JFormRule
 				return true;
 			}
 		}
+
 		return false;
 	}
 }

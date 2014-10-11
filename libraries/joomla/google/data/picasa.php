@@ -60,6 +60,7 @@ class JGoogleDataPicasa extends JGoogleData
 				{
 					$items[] = new JGoogleDataPicasaAlbum($item, $this->options, $this->auth);
 				}
+
 				return $items;
 			}
 			else

@@ -113,6 +113,7 @@ class JArchiveTar implements JArchiveExtractable
 						throw new RuntimeException('Unable to create destination');
 					}
 				}
+
 				if (JFile::write($path, $buffer) === false)
 				{
 					if (class_exists('JError'))
@@ -126,6 +127,7 @@ class JArchiveTar implements JArchiveExtractable
 				}
 			}
 		}
+
 		return true;
 	}
 
@@ -221,9 +223,11 @@ class JArchiveTar implements JArchiveExtractable
 				{
 					/* Some other type. */
 				}
+
 				$return_array[] = $file;
 			}
 		}
+
 		$this->_metadata = $return_array;
 
 		return true;
